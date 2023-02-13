@@ -10,7 +10,7 @@ My name is Christian and I'm a soon to be Software Engineer
 
 ## My stack 
 
-```
+```python
 {
   "languages": ["Python", "Javascript"],
   "frameworks/libraries": {
