@@ -1,6 +1,6 @@
 # Console.log("Hi I'm Christian")
 
-My name is Christian and I'm a soon to be Software Engineer
+My name is Christian and I'm a Software Engineer
 
 # Things you should know
 
