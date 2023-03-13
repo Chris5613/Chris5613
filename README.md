@@ -5,6 +5,7 @@ Hey! Thank you for looking at my profile
 # Things you should know
 
 - 🌱 I’m currently learning Node.js and Tailwind!
+- Interested in learning , Redis and Firebase
 
 ## My stack 
 
