@@ -4,8 +4,8 @@ My name is Christian and I'm a Software Engineer
 
 # Things you should know
 
-- 🔭 I’m currently working on a React full stack project 
-- 🌱 I’m currently learning Fast API, Data structure & Algorithms
+- 🔭 I’m currently working on ..
+- 🌱 I’m currently learning Node.js and Tailwind!
 - 👯 I’m looking to collaborate on any project , hit me up!
 
 ## My stack 
@@ -19,7 +19,7 @@ My name is Christian and I'm a Software Engineer
     "others": ["Redux", "Axios"]
   },
   "database": ["Mysql", "PostgreSQL", "Mongo DB"],
-  "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
+  "misc": ["Docker", "RabbitMQ", "Unit Testing", "CI/CD"],
   "tools": ["Visual Studio Code"]
 }
 ``` 
