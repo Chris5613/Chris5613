@@ -1,17 +1,10 @@
 # Console.log("Hi I'm Christian")
 
-<a href="https://github.com/Chris5613/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris5613&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/Chris5613/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chris5613&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
+Hey! Thank you for looking at my profile
 
 # Things you should know
 
-- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning Node.js and Tailwind!
-- 👯 I’m looking to collaborate on any project , hit me up!
 
 ## My stack 
 
@@ -29,3 +22,11 @@
 }
 ``` 
 
+## Github Stats
+
+<a href="https://github.com/Chris5613/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chris5613&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Chris5613/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris5613&theme=dark#gh-dark-mode-only" />
+</a>
