@@ -1,6 +1,11 @@
 # Console.log("Hi I'm Christian")
 
-My name is Christian and I'm a Software Engineer
+<a href="https://github.com/Chris5613/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris5613&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Chris5613/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chris5613&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
 
 # Things you should know
 
@@ -24,11 +29,3 @@ My name is Christian and I'm a Software Engineer
 }
 ``` 
 
-#  GitHub Stats
-
-<a href="https://github.com/Chris5613/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris5613&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/Chris5613/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chris5613&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
