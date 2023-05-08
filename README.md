@@ -13,11 +13,11 @@ Hey! Thank you for looking at my profile
 {
   "languages": ["Python", "Javascript"],
   "frameworks/libraries": {
-    "backend": ["Django", "Django Rest Framework"],
+    "backend": ["Django", "Django Rest Framework", "Node", "FastAPI"],
     "frontend": ["React.js", "Boostrap"],
     "others": ["Redux", "Axios"]
   },
-  "database": ["Mysql", "PostgreSQL", "Mongo DB"],
+  "database": ["Mysql", "PostgreSQL", "MongoDB"],
   "misc": ["Docker", "RabbitMQ", "Unit Testing", "CI/CD"],
   "tools": ["Visual Studio Code"]
 }
