@@ -1,13 +1,4 @@
-# Console.log("Hi I'm Christian")
-
-Hey! Thank you for looking at my profile
-
-# Things you should know
-
-- 🌱 I’m currently learning Node.js and Tailwind!
-- Interested in learning , Redis and Firebase
-
-## My stack 
+# My stack 
 
 ```python
 {
@@ -23,7 +14,7 @@ Hey! Thank you for looking at my profile
 }
 ``` 
 
-## Github Stats
+# Github Stats
 
 <a href="https://github.com/Chris5613/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chris5613&show_icons=true&theme=dark#gh-dark-mode-only" />
@@ -31,3 +22,8 @@ Hey! Thank you for looking at my profile
 <a href="https://github.com/Chris5613/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris5613&theme=dark#gh-dark-mode-only" />
 </a>
+<a href="https://github.com/Chris5613/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user={Chris5613}&theme={tokyonight}" />
+</a>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Chris5613}1212%2Fhit-counter" />
