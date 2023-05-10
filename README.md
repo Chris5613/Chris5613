@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/Chris5613/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris5613&layout=compact&langs_count=4&theme=dark#gh-dark-mode-only)](https://github.com/chris5613/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris5613&layout=compact&langs_count=4&theme=dark#gh-dark-mode-only)](https://github.com/chris5613/github-readme-stats" />
 </a>
 
 <p> </p>
