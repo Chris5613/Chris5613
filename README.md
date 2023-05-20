@@ -6,7 +6,7 @@ Personal Site: https://christianwu.dev/
   "languages": ["Python", "Javascript"],
   "frameworks/libraries": {
     "backend": ["Django", "Django Rest Framework", "Node", "FastAPI"],
-    "frontend": ["React.js", "Boostrap"],
+    "frontend": ["React.js", "Bootstrap"],
     "others": ["Redux", "Axios"]
   },
   "database": ["Mysql", "PostgreSQL", "MongoDB"],
